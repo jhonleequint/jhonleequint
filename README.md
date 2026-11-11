@@ -12,10 +12,10 @@
 
 ## About me
 
-- I work in electronics manufacturing and write the software the production floor runs on.
-- Business administrator by training, with postgraduate degrees in Software Engineering and in Automation and Process Engineering.
-- I enjoy problems you can see working: a dashboard updating live on the line, a label that prints right the first time, a station nobody needs to restart.
-- Based in Joinville, Brazil. Off the clock, I make music in Ableton Live.
+- Building industrial software that runs every shift on the shop floor.
+- Focus: production monitoring, quality inspection and traceability.
+- Software Engineering and Automation & Process Engineering, with a business background.
+- Joinville, Brazil.
 
 ## Languages and tools
 

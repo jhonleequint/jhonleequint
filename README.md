@@ -39,7 +39,7 @@ Other work, kept private: an AOI station with YOLO OBB and ESP32 actuator, a mai
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=jhonleequint&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jhonleequint&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img height="170" src="assets/languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -57,5 +57,5 @@ Other work, kept private: an AOI station with YOLO OBB and ESP32 actuator, a mai
 </p>
 
 <p align="center">
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="100%" src="profile-3d-contrib/profile-3d.svg" alt="3D contribution graph" />
 </p>

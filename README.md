@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jhon Lee Quint</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Software+for+the+factory+floor;Production+monitoring%2C+machine+vision%2C+data+collection;Python+%C2%B7+C%23+%2F+.NET+%C2%B7+JavaScript+%C2%B7+ESP32" alt="Software for the factory floor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Software+for+the+factory+floor;Dashboards%2C+inspection+and+data+collection;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Software for the factory floor" />
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 ## About me
 
-- Business administrator with postgraduate degrees in Software Engineering and in Automation and Process Engineering.
-- I build software for electronics manufacturing: hourly production monitoring, automated optical inspection with YOLO, barcode and label systems, and the ESP32 firmware that connects the line to them.
-- Most of my production work runs offline, on the shop floor network, next to the people who use it every shift.
-- Based in Joinville, Brazil.
+- I work in electronics manufacturing and write the software the production floor runs on.
+- Business administrator by training, with postgraduate degrees in Software Engineering and in Automation and Process Engineering.
+- I enjoy problems you can see working: a dashboard updating live on the line, a label that prints right the first time, a station nobody needs to restart.
+- Based in Joinville, Brazil. Off the clock, I make music in Ableton Live.
 
 ## Languages and tools
 
@@ -33,7 +33,7 @@
 | [arduino-led-matrix-tetris](https://github.com/jhonleequint/arduino-led-matrix-tetris) | Tetris on eight MAX7219 LED matrices with score display and sound | C++, Arduino |
 | [esp32-oled-frame-animation](https://github.com/jhonleequint/esp32-oled-frame-animation) | Frame-by-frame bitmap animation on an SSD1306 OLED | C++, ESP32 |
 
-Other work, kept private: an AOI station with YOLO OBB and ESP32 actuator, a maintenance and engineering system (web and mobile), serial number control, and Windows services that feed production data to the central MES.
+Other work, kept private: a visual inspection station, a maintenance and engineering system (web and mobile), serial number control, and Windows services that feed production data to the central dashboard.
 
 ## GitHub stats
 

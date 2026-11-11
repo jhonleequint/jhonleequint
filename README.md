@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Jhon Lee Quint</h1>
+<p align="center"><sub>Software engineer · Joinville, Brazil</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Software+Engineer;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Software+for+the+factory+floor;Dashboards%2C+inspection+and+data+collection;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Software for the factory floor" />
 </p>
 
 <p align="center">
@@ -9,10 +10,6 @@
   <a href="https://github.com/jhonleequint?tab=followers"><img src="https://img.shields.io/github/followers/jhonleequint?label=Followers&style=social" alt="Followers" /></a>
   <a href="https://github.com/jhonleequint?tab=repositories"><img src="https://img.shields.io/github/stars/jhonleequint?label=Stars&style=social" alt="Stars" /></a>
 </p>
-
-## About me
-
-Software engineer · Joinville, Brazil
 
 ## Languages and tools
 

@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Jhon Lee Quint</h1>
-<p align="center"><sub>Software engineer · Joinville, Brazil</sub></p>
+<p align="center"><sub>Software development · Joinville, Brazil</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Software+for+the+factory+floor;Dashboards%2C+inspection+and+data+collection;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Software for the factory floor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Software+development;Web%2C+desktop+and+embedded+systems;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Software development" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhonleequint&style=flat&color=blue" alt="Profile views" />
-  <a href="https://github.com/jhonleequint?tab=followers"><img src="https://img.shields.io/github/followers/jhonleequint?label=Followers&style=social" alt="Followers" /></a>
-  <a href="https://github.com/jhonleequint?tab=repositories"><img src="https://img.shields.io/github/stars/jhonleequint?label=Stars&style=social" alt="Stars" /></a>
 </p>
 
 ## Languages and tools
@@ -27,12 +25,22 @@
 | [arduino-led-matrix-tetris](https://github.com/jhonleequint/arduino-led-matrix-tetris) | Tetris on eight MAX7219 LED matrices with score display and sound | C++, Arduino |
 | [esp32-oled-frame-animation](https://github.com/jhonleequint/esp32-oled-frame-animation) | Frame-by-frame bitmap animation on an SSD1306 OLED | C++, ESP32 |
 
-Other work, kept private: a visual inspection station, a maintenance and engineering system (web and mobile), serial number control, and Windows services that feed production data to the central dashboard.
+## Private work
 
-## GitHub stats
+The source code of these projects is private. Their commits are part of the contribution graph below.
+
+| Project | What it is | Stack |
+|---|---|---|
+| visual-inspection-system | Automated optical inspection station for PCB assembly lines, with a recipe manager and an ESP32 actuator | Python, FastAPI, OpenCV, YOLO, ESP32 |
+| sector-control-system | Maintenance and engineering system with an offline-first web app and mobile app | TypeScript, Next.js, Express, PostgreSQL, Capacitor |
+| hourly-production-monitoring-desktop | Desktop application of the hourly production monitoring system | JavaScript, Electron, Node.js |
+| serial-number-manager | Serial number control with a label designer and network diagnostics | C#, Blazor, PostgreSQL |
+| barcode-defect-reader | Windows tray app that records production defects from barcode reads | C# |
+| bz-data-collection-module | Windows service that collects packing line output and sends production events | C# |
+
+## Activity
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=jhonleequint&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
   <img height="170" src="assets/languages.svg" alt="Most used languages" />
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jhon Lee Quint</h1>
-<p align="center"><sub>Software development · Joinville, Brazil</sub></p>
+<p align="center"><sub>Software development · Joinville, Santa Catarina, Brazil</sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=640&lines=Software+development;Web%2C+desktop+and+embedded+systems;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Software development" />
@@ -51,13 +51,13 @@ The source code of these projects is private. Their commits are part of the cont
 ## Contributions
 
 <p align="center">
+  <img width="100%" src="profile-3d-contrib/profile-3d.svg" alt="3D contribution graph" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonleequint/jhonleequint/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonleequint/jhonleequint/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/jhonleequint/jhonleequint/output/github-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img width="100%" src="profile-3d-contrib/profile-3d.svg" alt="3D contribution graph" />
 </p>

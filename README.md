@@ -51,13 +51,13 @@ The source code of these projects is private. Their commits are part of the cont
 ## Contributions
 
 <p align="center">
-  <img width="100%" src="profile-3d-contrib/profile-3d.svg" alt="3D contribution graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonleequint/jhonleequint/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonleequint/jhonleequint/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/jhonleequint/jhonleequint/output/github-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="profile-3d-contrib/profile-3d.svg" alt="3D contribution graph" />
 </p>

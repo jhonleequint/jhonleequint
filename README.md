@@ -45,7 +45,7 @@ The source code of these projects is private. Their commits are part of the cont
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jhonleequint&theme=react&hide_border=true&background=0d1117" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=jhonleequint&theme=react&hide_border=true&background=0d1117&v=2" alt="Contribution streak" />
 </p>
 
 ## Contributions
